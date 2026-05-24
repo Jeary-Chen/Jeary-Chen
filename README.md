@@ -51,13 +51,13 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jeary-Chen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Jeary-Chen&theme=tokyonight&hide_border=true&background=0D1117&ring_color=58A6FF&fire_color=FF6B6B&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=555555" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jeary-Chen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" />
+<img height="170" src="https://streak-stats.demolab.com?user=Jeary-Chen&theme=tokyonight&hide_border=true&background=0D1117&ring_color=58A6FF&fire_color=FF6B6B&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=555555" />
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeary-Chen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jeary-Chen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
 </div>
 
 ---
