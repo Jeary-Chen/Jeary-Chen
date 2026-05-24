@@ -40,19 +40,8 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-<p><strong>AI Coding</strong></p>
-
-![Claude](https://img.shields.io/badge/Claude-Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![Codex](https://img.shields.io/badge/OpenAI-Codex-412991?style=flat-square&logo=openai&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Google-Antigravity-6E40C9?style=flat-square&logo=google&logoColor=white)
-![Copilot](https://img.shields.io/badge/GitHub-Copilot-000000?style=flat-square&logo=github&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-AI-000000?style=flat-square&logo=cursor&logoColor=white)
-![Trae](https://img.shields.io/badge/Trae-AI-5E5CE6?style=flat-square)
-![OpenCode](https://img.shields.io/badge/OpenCode-Terminal-000000?style=flat-square)
-
 <p><strong>Tools & Platforms</strong></p>
 
-![VS Code](https://img.shields.io/badge/VS_Code-0078D7?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![EdgeOne](https://img.shields.io/badge/Tencent-EdgeOne-0078D4?style=flat-square)
@@ -70,6 +59,17 @@
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+<p><strong>AI Coding</strong></p>
+
+![VS Code](https://img.shields.io/badge/VS_Code-0078D7?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/OpenAI-Codex-412991?style=flat-square&logo=openai&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Google-Antigravity-6E40C9?style=flat-square&logo=google&logoColor=white)
+![Copilot](https://img.shields.io/badge/GitHub-Copilot-000000?style=flat-square&logo=github&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-AI-000000?style=flat-square&logo=cursor&logoColor=white)
+![Trae](https://img.shields.io/badge/Trae-AI-5E5CE6?style=flat-square)
+![OpenCode](https://img.shields.io/badge/OpenCode-Terminal-000000?style=flat-square)
 
 ---
 
